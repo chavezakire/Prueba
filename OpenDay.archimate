@@ -22,7 +22,11 @@
     <element xsi:type="archimate:BusinessProcess" id="0911cddd" name="Add planning tasks"/>
     <element xsi:type="archimate:BusinessRole" id="2ebb90c0" name="Open day planner"/>
     <element xsi:type="archimate:BusinessActor" id="61978d4f" name="Sue"/>
+<<<<<<< HEAD
     <element xsi:type="archimate:BusinessActor" id="c73b3e33" name="Messi"/>
+=======
+    <element xsi:type="archimate:BusinessActor" id="ba0654c1" name="Ronald"/>
+>>>>>>> origin/master
   </folder>
   <folder name="Application" id="dc3a6552" type="application">
     <element xsi:type="archimate:ApplicationService" id="9f501f04" name="E-mail service"/>
